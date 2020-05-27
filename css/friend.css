@@ -2,6 +2,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+    
+}
+
+.friends__list .friend{
+    margin-bottom: 20px;;
 }
 
 .friend .friend__avatar {
